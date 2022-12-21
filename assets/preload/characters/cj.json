@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				168,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cj Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				60,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cj Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				14,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cj Sing Note UP"
+		},
+		{
+			"offsets": [
+				52,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cj Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "cj idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cj_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "cj",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		103,
+		255
+	],
+	"camera_position": [
+		140,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
