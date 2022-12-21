@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Luna.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Luna Down0000" x="3" y="3" width="357" height="706" frameX="0" frameY="0" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Down0001" x="3" y="3" width="357" height="706" frameX="0" frameY="0" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Down0002" x="363" y="3" width="340" height="706" frameX="-22" frameY="0" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Down0003" x="363" y="3" width="340" height="706" frameX="-22" frameY="0" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Down0004" x="706" y="3" width="346" height="704" frameX="-26" frameY="-2" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Down0005" x="706" y="3" width="346" height="704" frameX="-26" frameY="-2" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Down0006" x="706" y="3" width="346" height="704" frameX="-26" frameY="-2" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Down0007" x="706" y="3" width="346" height="704" frameX="-26" frameY="-2" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Down0008" x="706" y="3" width="346" height="704" frameX="-26" frameY="-2" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Down0009" x="706" y="3" width="346" height="704" frameX="-26" frameY="-2" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Down0010" x="706" y="3" width="346" height="704" frameX="-26" frameY="-2" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Down0011" x="706" y="3" width="346" height="704" frameX="-26" frameY="-2" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Down0012" x="706" y="3" width="346" height="704" frameX="-26" frameY="-2" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Down0013" x="706" y="3" width="346" height="704" frameX="-26" frameY="-2" frameWidth="372" frameHeight="706"/>
+	<SubTexture name="Luna Idle0000" x="1055" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Idle0001" x="1055" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Idle0002" x="1453" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Idle0003" x="1453" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Idle0004" x="1851" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Idle0005" x="1851" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Idle0006" x="2249" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Idle0007" x="2249" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Idle0008" x="2647" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Idle0009" x="2647" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Idle0010" x="3045" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Idle0011" x="3045" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Idle0012" x="3443" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Idle0013" x="3443" y="3" width="395" height="758"/>
+	<SubTexture name="Luna Left0000" x="3" y="764" width="502" height="763" frameX="-102" frameY="-7" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Left0001" x="3" y="764" width="502" height="763" frameX="-102" frameY="-7" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Left0002" x="508" y="764" width="538" height="768" frameX="-66" frameY="-2" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Left0003" x="508" y="764" width="538" height="768" frameX="-66" frameY="-2" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Left0004" x="1049" y="764" width="604" height="762" frameX="0" frameY="-8" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Left0005" x="1049" y="764" width="604" height="762" frameX="0" frameY="-8" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Left0006" x="1049" y="764" width="604" height="762" frameX="0" frameY="-8" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Left0007" x="1049" y="764" width="604" height="762" frameX="0" frameY="-8" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Left0008" x="1049" y="764" width="604" height="762" frameX="0" frameY="-8" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Left0009" x="1049" y="764" width="604" height="762" frameX="0" frameY="-8" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Left0010" x="1049" y="764" width="604" height="762" frameX="0" frameY="-8" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Left0011" x="1049" y="764" width="604" height="762" frameX="0" frameY="-8" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Left0012" x="1049" y="764" width="604" height="762" frameX="0" frameY="-8" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Left0013" x="1049" y="764" width="604" height="762" frameX="0" frameY="-8" frameWidth="604" frameHeight="770"/>
+	<SubTexture name="Luna Right0000" x="1656" y="764" width="507" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Right0001" x="1656" y="764" width="507" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Right0002" x="2166" y="764" width="500" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Right0003" x="2166" y="764" width="500" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Right0004" x="2669" y="764" width="500" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Right0005" x="2669" y="764" width="500" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Right0006" x="2669" y="764" width="500" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Right0007" x="2669" y="764" width="500" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Right0008" x="2669" y="764" width="500" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Right0009" x="2669" y="764" width="500" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Right0010" x="2669" y="764" width="500" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Right0011" x="2669" y="764" width="500" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Right0012" x="2669" y="764" width="500" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Right0013" x="2669" y="764" width="500" height="734" frameX="0" frameY="-7" frameWidth="507" frameHeight="741"/>
+	<SubTexture name="Luna Up0000" x="3172" y="764" width="352" height="842" frameX="-3" frameY="0" frameWidth="361" frameHeight="842"/>
+	<SubTexture name="Luna Up0001" x="3172" y="764" width="352" height="842" frameX="-3" frameY="0" frameWidth="361" frameHeight="842"/>
+	<SubTexture name="Luna Up0002" x="3527" y="764" width="356" height="832" frameX="-4" frameY="-9" frameWidth="361" frameHeight="842"/>
+	<SubTexture name="Luna Up0003" x="3527" y="764" width="356" height="832" frameX="-4" frameY="-9" frameWidth="361" frameHeight="842"/>
+	<SubTexture name="Luna Up0004" x="3" y="1609" width="358" height="830" frameX="-3" frameY="-12" frameWidth="361" frameHeight="842"/>
+	<SubTexture name="Luna Up0005" x="3" y="1609" width="358" height="830" frameX="-3" frameY="-12" frameWidth="361" frameHeight="842"/>
+	<SubTexture name="Luna Up0006" x="3" y="1609" width="358" height="830" frameX="-3" frameY="-12" frameWidth="361" frameHeight="842"/>
+	<SubTexture name="Luna Up0007" x="3" y="1609" width="358" height="830" frameX="-3" frameY="-12" frameWidth="361" frameHeight="842"/>
+	<SubTexture name="Luna Up0008" x="3" y="1609" width="358" height="830" frameX="-3" frameY="-12" frameWidth="361" frameHeight="842"/>
+	<SubTexture name="Luna Up0009" x="3" y="1609" width="358" height="830" frameX="-3" frameY="-12" frameWidth="361" frameHeight="842"/>
+	<SubTexture name="Luna Up0010" x="3" y="1609" width="358" height="830" frameX="-3" frameY="-12" frameWidth="361" frameHeight="842"/>
+	<SubTexture name="Luna Up0011" x="3" y="1609" width="358" height="830" frameX="-3" frameY="-12" frameWidth="361" frameHeight="842"/>
+	<SubTexture name="Luna Up0012" x="3" y="1609" width="358" height="830" frameX="-3" frameY="-12" frameWidth="361" frameHeight="842"/>
+	<SubTexture name="Luna Up0013" x="3" y="1609" width="358" height="830" frameX="-3" frameY="-12" frameWidth="361" frameHeight="842"/>
+</TextureAtlas>
